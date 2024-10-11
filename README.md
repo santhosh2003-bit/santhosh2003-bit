@@ -1,4 +1,4 @@
-![logo](https://github.com/santhosh2003-bit/Boda_Santhosh/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+![logo](https://github.com/santhosh2003-bit/santhosh2003-bit/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Boda Santhosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
